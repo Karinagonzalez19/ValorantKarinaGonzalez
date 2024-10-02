@@ -1,0 +1,9 @@
+.filter-input {
+    display: block;
+    margin: 0 auto 20px;
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
